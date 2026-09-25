@@ -1,5 +1,8 @@
 # React + Vite
 
+
+Live Link: https://assignment-02-blush-tau.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
